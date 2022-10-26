@@ -1,18 +1,5 @@
-const express = require('express');
-
-const server = express();
-
-server.use(express.json());
-
-const food = {
-    "produtos": [
-        {
-            "id": 2,
-            "nome": "X-Búrguer",
-            "descricao": "Pão, bife de hambúrguer 90g, 1 fatia de queijo, salada e batata.",
-            "preco": 10.5,
-            "categoria_id": 1
-        },
+{
+    "food": [
         {
             "id": 3,
             "nome": "X-Bacon",
@@ -47,6 +34,13 @@ const food = {
             "descricao": "Pão, bife de hambúrguer 90g, salada e batata.",
             "preco": 8.5,
             "categoria_id": 1
+        },
+        {
+            "id": 2,
+            "nome": "X-Búrguer",
+            "descricao": "Pão, bife de hambúrguer 90g, 1 fatia de queijo, salada e batata.",
+            "preco": 10.5,
+            "categoria_id": 1
         }
     ],
     "categorias": [
@@ -59,50 +53,4 @@ const food = {
             "nome": "Refrigerantes"
         }
     ]
-};
-
-
-// CRUD --> Create, Read, Update, Delete
-
-// Retorna uma Refeição
-server.get('/food/:index', (req, res) => {
-    const { index } = req.params
-
-    return res.json(food[index])
-});
-
-// Retornar todas as refeições
-server.get('/food', (req, res) => {
-
-    return res.json(food)
-});
-
-// Criar uma nova 
-server.post('/food', (req, res) => {
-    const { name } = req.body;
-    food.push(name);
-
-    return res.json(food);
-});
-
-// Atualizar um curso
-server.put('/food/:index', (req, res) => {
-    const { index } = req.params;
-    const { name } = req.body;
-
-    food[index] = name;
-
-    return res.json(food);
-});
-
-// Deletar um curso
-server.delete('/food/:index', (req, res) => {
-    const { index } = req.params;
-
-    food.splice(index, 1);
-    return res.json({ message: "O curso foi deletado" });
-})
-
-
-
-server.listen(3001);
+}
