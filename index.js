@@ -4,6 +4,7 @@ const server = express();
 
 server.use(express.json());
 
+
 const food = {
     "produtos": [
         {
@@ -18,7 +19,8 @@ const food = {
             "nome": "X-Bacon",
             "descricao": "Pão, bife de hambúrguer 90g, 1 fatia de queijo, 2 fatia de bacon, salada e batata.",
             "preco": 12.5,
-            "categoria_id": 1
+            "categoria_id": 1,
+            "link_imagem": "http://data.whicdn.com/images/25686711/large.jpg"
         },
         {
             "id": 4,
@@ -105,3 +107,17 @@ server.delete('/food/:index', (req, res) => {
 
 
 server.listen(3001);
+
+
+server.delete("/food/:index", (req, res) => {
+    const comida = comida.deleteOne({ _id: req.params.id }, (err) => {
+        if (err) return res.status(400).json({
+            error: true,
+            message: "Error: Comida não foi apagada com sucesso!"
+        });
+        return res.json({
+            error: false,
+            message: "Artigo apagado com sucesso!"
+        });
+    });
+});
