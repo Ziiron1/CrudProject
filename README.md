@@ -30,11 +30,9 @@ $ <http://localhost:3000>
 
 Ou
 
-```bash
-
 Entre no [Link](https://crudserver2.herokuapp.com)
 
-```
+
 
 ## Rotas CRUD
 
