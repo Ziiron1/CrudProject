@@ -1,7 +1,38 @@
 [
   {
     "id": 1,
-    "tipo": "sorvete",
-    "categoria": "sobremesa"
+    "nome": "CHEESECAKE AU LAIT SUCRE & KIT KAT@ A 'CARLA DIAZ' ",
+    "tipo": "Cheesecake",
+    "preco": 38.00,
+    "descricao": "Cremosa cheesecake de doce de leite com recheio e cobertura de KIT KAT®, deliciosamente preparada com bolachas OREO® e finalizada com ganache de chocolate e toque final de leite condensado",
+    "link_imagem": "https://pbs.twimg.com/media/EuKVSZdXMAkEpjN.jpg",
+    "categoria_id": 1
+  },
+  {
+    "id": 2,
+    "nome": "BRIGADEIRO BROLEE AU LEITE NINHO® A 'GABRIELLA SARAIVAH' ",
+    "tipo": "Crème Brûlées",
+    "preco": 34.00,
+    "descricao": "Delicioso brigadeiro de leite Ninho®, coberto com ganache de chocolate meio amargo, morangos picados, leite Ninho®, finalizado com um toque de leite condensado",
+    "link_imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0f/27/f2/23/creme-brulee.jpg",
+    "categoria_id": 1
+  },
+  {
+    "id": 3,
+    "nome": "COUPE CHOCOLAT MIX A “ANDREAS KISSER” ",
+    "tipo": "Coupe Chocolate",
+    "preco": 42.00,
+    "descricao": "Metade recheio de Grand Gateau®, metade creme de pavé de chocolate branco, cobertura de calda de ganache de chocolate meio amargo, morangos picados, leite Ninho® em pé e toque final de leite condensado.",
+    "link_imagem": "https://docplayer.com.br/docs-images/112/203593621/images/9-0.jpg",
+    "categoria_id": 1
+  },
+  {
+    "id": 4,
+    "nome": "GRAND GATEAU AU KINDER® A “JADE BARBOSA” ",
+    "tipo": "Grand Gateau",
+    "preco": 55.00,
+    "descricao": "Grand Gateau® P6 de chocolate coberto com ganache de chocolate meio amargo, pedagos de Kinder Bueno® ao leite, toque de calda de doce de leite, avelis granuladas, finalizado com leite condensado",
+    "link_imagem": "http://i0.wp.com/portalbetioli.com/inicio/wp-content/uploads/2015/12/jade-barbosa-Small.jpg",
+    "categoria_id": 1
   }
 ]
