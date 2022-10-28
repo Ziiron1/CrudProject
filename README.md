@@ -2,6 +2,7 @@
 ### 📑 Descrição
 Desenvolvimento da **API REST** que retorna informações das entidades de um restaurante e efetua todas as operações **C.R.U.D.**: ``pratos``, ``bebidas``, ``sobremesas``.
 
+
 **[ Tecnologias ]**
   
 - <em>**Node.js**</em> | <em>**Express**</em> | <em>**Insomnia**</em> | <em>**npm**</em>
@@ -30,8 +31,7 @@ $ <http://localhost:3000>
 
 Ou
 
-Entre no [Link](https://crudserver2.herokuapp.com) "https://crudserver2.herokuapp.com"
-
+Entre Server Hosteado https://crudserver2.herokuapp.com
 
 
 ## Rotas CRUD
