@@ -1,5 +1,5 @@
 {
-  "name": "jsonserver",
+  "name": "crudjsonserver",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,6 +7,9 @@
     "dev": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "json-server, node, REST API, heroku, Resilia"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Ziiron1/CrudProject.git"
