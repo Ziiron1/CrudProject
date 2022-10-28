@@ -30,7 +30,7 @@ $ <http://localhost:3000>
 
 Ou
 
-Entre no [Link](https://crudserver2.herokuapp.com)
+Entre no [Link](https://crudserver2.herokuapp.com) "https://crudserver2.herokuapp.com"
 
 
 
