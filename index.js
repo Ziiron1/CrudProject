@@ -18,8 +18,6 @@
 
 
 
-
-
 /* const express = require('express');
 
 const server = express();
@@ -92,7 +90,6 @@ server.delete("/food/:index", (req, res) => {
         });
     });
 });
-
 
 
 server.listen(port, () => {
