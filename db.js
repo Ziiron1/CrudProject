@@ -1,13 +1,13 @@
-const items = require("./data/items");
-const tags = require("./data/tags");
-const brands = require("./data/brands");
-const itemTypes = require("./data/itemTypes");
+const pratoentrada = require("./data/pratoentrada");
+const bebidas = require("./data/bebidas");
+const sobremesa = require("./data/sobremesa");
+const categoria = require("./data/categoria");
 
 module.exports = {
-  items,
-  tags,
-  brands,
-  itemTypes
+  pratoentrada,
+  bebidas,
+  sobremesa,
+  categoria
 }
 
 
