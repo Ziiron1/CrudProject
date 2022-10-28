@@ -1,24 +1,41 @@
-/* const data = require("./db");
+// const data = require("./db");
+
+// const jsonServer = require("json-server");
+
+// const server = jsonServer.create();
+
+// const router = jsonServer.router(data);
+
+// const middlewares = jsonServer.defaults();
+
+// const port = process.env.PORT || 3001;
+
+// server.use(middlewares);
+// server.use(router);
+
+// server.listen(port);
+
+
+const data = require("./db.js");
 
 const jsonServer = require("json-server");
-
 const server = jsonServer.create();
-
 const router = jsonServer.router(data);
-
 const middlewares = jsonServer.defaults();
-
-const port = process.env.PORT || 3001;
+const port = process.env.PORT || 3000;
 
 server.use(middlewares);
 server.use(router);
 
-server.listen(port); */
+server.listen(port);
 
 
 
-/* 
-const express = require('express');
+
+
+
+
+/* const express = require('express');
 
 const server = express();
 
@@ -93,6 +110,7 @@ server.delete("/food/:index", (req, res) => {
 
 
 
-server.listen(3001, () => {
+server.listen(port, () => {
     console.log(`Server is running in http://localhost:${port}`);
-}); */
+});
+ */

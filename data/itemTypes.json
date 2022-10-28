@@ -1,9 +1,4 @@
-{
-    "Caminho1": [
-        {
-            "id": 3,
-            "nome": "X-Nada",
-            "tipo": "Prato Entrada"
-        }
-    ]
-}
+[
+    "mug",
+    "shirt"
+  ]
