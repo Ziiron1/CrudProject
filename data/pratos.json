@@ -3,7 +3,7 @@
     "id": 1,
     "nome": "Salade Caesar Au Poulet a “MIGUEL FALABELLA”",
     "tipo": "Prato Entrada",
-    "preco": 47.99,
+    "preco": "R$ 47,99",
     "descricao": "Salada de alface americana mesclada com pedacos de peito de frango, croutons, parmesao ralado e o classico molho caesar",
     "link_imagem": "https://cdn.pratico-pratiques.com/app/uploads/sites/2/2018/08/29093306/salade-cesar-au-poulet.jpeg",
     "categoria_id": 1
@@ -12,7 +12,7 @@
     "id": 2,
     "nome": "SALADE CAPRESE A “CLAUDIA RAIA”",
     "tipo": "Prato Entrada",
-    "preco": 42.99,
+    "preco": "R$ 42,99",
     "descricao": "Classica salada de folhas com mozzarella de bufala, rodelas de tomate e manjericao servida com molho vinagrete da casa",
     "link_imagem": "https://www.cozinhatecnica.com/wp-content/uploads/2020/03/salada_caprese.jpg",
     "categoria_id": 1
@@ -21,7 +21,7 @@
     "id": 3,
     "nome": "FILET DU POISSON DU JOUR GRILLE AU RISOTTO AU CITRON A “CAROL CASTRO” ",
     "tipo": "Prato Principal",
-    "preco": 51.99,
+    "preco": "R$ 51,99",
     "descricao": "Filé de peixe do dia grelhado, acompanhado de risotto de limao siciliano, finalizado com azeite de ervas",
     "link_imagem": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/56/61/8b/filet-du-poisson-du-jour.jpg",
     "categoria_id": 2
@@ -30,7 +30,7 @@
     "id": 4,
     "nome": "COQ-AU-VIN A “MARCELO SERRADO",
     "tipo": "Prato Principal",
-    "preco": 61.99,
+    "preco": "R$ 61,99",
     "descricao": "Tenro galeto ao estilo Coq-au-Vin com molho de vinho tinto, cogumelos e bacon, acompanhado de purê de batata",
     "link_imagem": "https://riomarfortalezaonline.com.br/fortalezashopping/2021/08/coq_au_vin_a_marcelo_serrado_paris6_riomar_fortaleza.jpg",
     "categoria_id": 2
@@ -39,7 +39,7 @@
     "id": 5,
     "nome": "SPAGHETTI BOLOGNAISE A “JAYME MONJARDIM” ",
     "tipo": "Prato Principal",
-    "preco": 58.99,
+    "preco": "R$ 58,99",
     "descricao": " Delicioso spaghetti puxado a molho bolonhesa, com tomate fresco picado, manjericao, parmesao, finalizado com azeite trufado ",
     "link_imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0f/75/43/65/spaghetti-alla-bolognaise.jpg",
     "categoria_id": 2

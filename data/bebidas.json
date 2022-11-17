@@ -3,7 +3,7 @@
     "id": 1,
     "nome": "Bellini",
     "tipo": "Com Alcool",
-    "preco": 26.99,
+    "preco": "R$ 26,99",
     "descricao": "Um coquetel Bellini é uma mistura de espumante Prosecco e purê (ou néctar) de pêssego. Tem sua origem em Veneza, na Itália.",
     "link_imagem": "https://www.receiteria.com.br/wp-content/uploads/bellini-730x480.png",
     "categoria_id": 1
@@ -12,7 +12,7 @@
     "id": 2,
     "nome": "Sex on The Beach”",
     "tipo": "Com Alcool",
-    "preco": 27.99,
+    "preco": "R$ 27,99",
     "descricao": "Um drink tropical e refrescante. O sex on the beach leva vodka, licor de pêssego, suco de laranja, xarope de groselha e gelo a gosto.",
     "link_imagem": "https://www.receiteria.com.br/wp-content/uploads/sex-on-the-beach-01-730x480.jpg",
     "categoria_id": 1
@@ -21,7 +21,7 @@
     "id": 3,
     "nome": "Limonada Twist Outback",
     "tipo": "Sem Alcool",
-    "preco": 21.99,
+    "preco": "R$ 21,99",
     "descricao": "A limonada clássica com twist Outback, grenadine e pimenta-rosa.",
     "link_imagem": "https://s3.amazonaws.com/institucional-statics-files/site/uploads/03A7660-min-225x255.jpg",
     "categoria_id": 2
@@ -30,7 +30,7 @@
     "id": 4,
     "nome": "Drink de café gelado",
     "tipo": "Sem Alcool",
-    "preco": 25.99,
+    "preco": "R$ 25,99",
     "descricao": "Um drink diferente, doce e bem gelado. O diferencial dessa bebida são os ingredientes: ele é feito com canela, cacau, leite, licor e creme de café, Nutella e chantilly.",
     "link_imagem": "https://www.receiteria.com.br/wp-content/uploads/drink-de-cafe-gelado-01-730x480.jpg",
     "categoria_id": 2
@@ -39,7 +39,7 @@
     "id": 5,
     "nome": "Frozen",
     "tipo": "Especial",
-    "preco": 32.99,
+    "preco": "R$ 32,99",
     "descricao": "Frozen com uma combinação irresistível de espumante, pêssego, vodka e Outback Secret Mixers. Nosso drink favorito desde 1988, inspirado no peach Bellini do famoso Harry's Bar, em Veneza. ",
     "link_imagem": "https://s3.amazonaws.com/institucional-statics-files/site/uploads/03A7487-min-225x255.jpg",
     "categoria_id": 3
@@ -48,7 +48,7 @@
     "id": 6,
     "nome": "Moscow Mule",
     "tipo": "Especial",
-    "preco": 27.99,
+    "preco": "R$ 27,99",
     "descricao": "Releitura Aussie do tradicional Moscow Mule, preparado com vodka e suco de limão. Finalizado com espuma de xarope de gengibre e, para deixar o clima mais gostoso, servido em nossa caneca congelada.",
     "link_imagem": "https://s3.amazonaws.com/institucional-statics-files/site/uploads/Moscow-Mule.png",
     "categoria_id": 3
