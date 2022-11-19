@@ -49,7 +49,7 @@
     "nome": "RATATOUILLE",
     "tipo": "Prato Principal",
     "preco": "R$ 61,99",
-    "descricao": "Ratatouille com molho piperade, igual ao que o Remy faz no filme",
+    "descricao": "Ratatouille é um prato tradicional francês feito com vegetais, entre eles, tomates, beringela, abobrinha, cebola, pimentões… e temperos e ervas, como alho, pimenta-do-reino, tomilho e manjericão.",
     "link_imagem": "https://achougastronomia.com.br/wp-content/uploads/2020/07/Remys-ratatouille-2-754x394-1.jpg",
     "categoria_id": 2
   },
@@ -57,8 +57,8 @@
     "id": 7,
     "nome": "BOEUF BOURGUIGNON",
     "tipo": "Prato Principal",
-    "preco": "R$ 129,56",
-    "descricao": "Picadinho de carne com vinho, cebola, cogumelos e bacon, um clássico francês, que nasceu caseiro na região da Borgonha.",
+    "preco": "R$ 89,99",
+    "descricao": "Picadinho de carne com vinho, cebola, cogumelos e bacon, um clássico francês.",
     "link_imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Mijot%C3%A9e_de_b%C5%93uf.jpg/776px-Mijot%C3%A9e_de_b%C5%93uf.jpg",
     "categoria_id": 2
   },
@@ -66,7 +66,7 @@
     "id": 8,
     "nome": "MAGRET DE CANARD",
     "tipo": "Prato Principal",
-    "preco": "R$ 134,82",
+    "preco": "R$ 109,99,",
     "descricao": "Peito de pato macio e suculento, enriquecido ainda mais pela camada de gordura que o recobre.",
     "link_imagem": "https://s2.glbimg.com/x0ls2QHbOAOg_3sBJ9rUb8Dcy_c=/0x0:720x480/1000x0/smart/filters:strip_icc()/s.glbimg.com/po/rc/media/2012/07/22/22_39_46_667_206518_179421755438435_5147571_n.jpg",
     "categoria_id": 2
@@ -75,8 +75,8 @@
     "id": 9,
     "nome": "CASSOULET",
     "tipo": "Prato Principal",
-    "preco": "R$ 74,91",
-    "descricao": "Também conhecido como feijoada francesa, o cassoulet é um clássico, além de ser uma refeição completa.",
+    "preco": "R$ 75,99",
+    "descricao": "O Cassoulet tradicional é como uma feijoada de feijão branco, é um clássico, além de ser uma refeição completa.",
     "link_imagem": "https://www.afuegolento.com/img_db/timthumb.php?src=img_db/articles/2018/11/article-5bf42d95d1abd.jpg&w=800&z=1",
     "categoria_id": 2
   },
@@ -84,7 +84,7 @@
     "id": 10,
     "nome": "BOUILLABAISSE",
     "tipo": "Prato Principal",
-    "preco": "R$ 226,34",
+    "preco": "R$ 129,99",
     "descricao": "Caldo  preparado à base de peixes brancos sortidos, criaturas marítimas, vegetais e ervas aromática.",
     "link_imagem": "https://img.theculturetrip.com/1440x807/smart/wp-content/uploads/2017/04/4960936068_02f62bee94_b.jpeg",
     "categoria_id": 2
