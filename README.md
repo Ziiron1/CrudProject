@@ -31,7 +31,7 @@ $ <http://localhost:3000>
 
 Ou
 
-Entre Server Hosteado https://crudserver2.herokuapp.com
+Entre Server Hosteado https://crudserver2.onrender.com
 
 
 ## Rotas CRUD
